@@ -54,3 +54,9 @@ h3.price-produto > span {
 	font-family: 'Bakbak One', cursive;
 	margin: 20px;
 }
+
+button {
+	font-family: 'Economica', sans-serif;
+	height: 20px;
+	margin: 20px;
+}
